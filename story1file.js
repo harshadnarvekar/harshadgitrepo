@@ -1,0 +1,5 @@
+dasfs function (
+  alert("test");
+) {
+
+}
